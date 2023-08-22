@@ -1,6 +1,6 @@
 = Glowing Spork
-[Dummy] making a simple message queue listener to insert into local db using custom verticle deployment.
 
+[Dummy] making a simple message queue listener to insert into local db using custom verticle deployment.
 
 image:https://img.shields.io/badge/vert.x-4.4.4-purple.svg[link="https://vertx.io"]
 
